@@ -1,2 +1,2 @@
 # meta-agnes
-Custom meta layers for Yocto. 
+Custom meta layers for Yocto.
